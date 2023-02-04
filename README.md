@@ -1,7 +1,7 @@
 ## Oiii eu sou a Thaina Rossinoli, Profissional Sistema para Internet!
 
- Sou um Designer que se interessou pela aréa de programação,
- <p> cursei C# por 2 anos na microlins </p>
+ Sou um Designer que se interessou pela aréa de programação, 
+ <p> Cursei C# por 1 anos e meio na Microlins </p>
  
 
 
