@@ -14,6 +14,7 @@
    <img align="center" alt="thai-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="thai-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="thai-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
+ <img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="">
 </div>
           
   ##
