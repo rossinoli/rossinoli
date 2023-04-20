@@ -1,6 +1,6 @@
 ## Oiii eu sou a Thaina Rossinoli, Profissional Sistema para Internet!
 
- <p>Sou um Designer que se interessou pela aréa de programação, Foco em Front-end</p>
+ <p>Sou um Designer que se interessou pela aréa de programação, Foco em fullstack para plataformas web./p>
  <p> Estudando JavaScript</p>
  <p> Cursei C# por 1 anos e meio na Microlins </p>
  
