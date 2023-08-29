@@ -2,7 +2,7 @@
 
  <p>Sou um Designer que se interessou pela aréa de programação, Foco em fullstack para plataformas web.</p>
  <p> Estudando JavaScript</p>
- <p>conhecimentos, c#, banco de dados</p>
+ <p>conhecimento em: banco de dados</p>
  
 
 
