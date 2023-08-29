@@ -2,7 +2,7 @@
 
  <p>Sou um Designer que se interessou pela aréa de programação, Foco em fullstack para plataformas web.</p>
  <p> Estudando JavaScript</p>
- <p> Cursei C# por 1 anos e meio na Microlins </p>
+ <p>conhecimentos, c#, banco de dados</p>
  
 
 
