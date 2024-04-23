@@ -1,7 +1,6 @@
 ## Oiii eu sou a Thaina Rossinoli, Profissional Sistema para Internet!
 
  <p>Sou um Designer que se interessou pela aréa de programação, Foco em fullstack para plataformas web.</p>
- <p> Estudando JavaScript</p>
 
   <a href="https://roadmap.sh/u/rossinoli"><img src="https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark&roadmaps=ux-design%2Cdesign-system%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
 
