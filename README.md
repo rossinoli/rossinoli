@@ -2,7 +2,7 @@
 
  <h6>Sou um Designer que se interessou pela aréa de programação,Experiencia Fullstack developer 2 anos.</h6>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark)](https://roadmap.sh/u/rossinoli)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark&roadmaps=design-system%2Cux-design%2Cdevops%2Cfull-stack)](https://roadmap.sh/u/rossinoli)
 
 ##### Conhecimentos:
 <div style="display: inline_block"><br>
