@@ -2,19 +2,23 @@
 
  <p>Sou um Designer que se interessou pela aréa de programação, Foco em fullstack para plataformas web.</p>
  <p> Estudando JavaScript</p>
- <p>conhecimento em: banco de dados</p>
+
  
 
-
+###Conhecimentos:
 <div style="display: inline_block"><br>
-   <img align="center" alt="thai-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="thai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="thai-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="thai-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="thai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="thai-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="thai-photoshop" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="thai-figma" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
- <img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif">
+  <img align="center" alt="thai-bootstrap" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="thai-photoshop" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="thai-figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="thai-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="thai-php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="thai-materializecss" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg">
+  <img align="center" alt="thai-tailwindcss" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif">
 </div>
           
   ##
