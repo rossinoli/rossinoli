@@ -2,6 +2,7 @@
 
  <p>Sou um Designer que se interessou pela aréa de programação, Foco em fullstack para plataformas web.</p>
 
+[![roadmap.sh/u/rossinoli](https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark)](https://roadmap.sh)
 <a href="https://roadmap.sh/u/rossinoli"><img src="https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark" alt="roadmap.sh"/></a>
 
 ### Conhecimentos:
