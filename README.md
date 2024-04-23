@@ -3,7 +3,7 @@
  <p>Sou um Designer que se interessou pela aréa de programação, Foco em fullstack para plataformas web.</p>
  <p> Estudando JavaScript</p>
 
- 
+  <a href="https://roadmap.sh/u/rossinoli"><img src="https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark&roadmaps=ux-design%2Cdesign-system%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
 
 ### Conhecimentos:
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
 </div>
           
   ##
- <a href="https://roadmap.sh/u/rossinoli"><img src="https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark&roadmaps=ux-design%2Cdesign-system%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
+  
  <div> 
   <a href="https://instagram.com/thai_rossinoli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaina-rossinoli-b23b14260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
