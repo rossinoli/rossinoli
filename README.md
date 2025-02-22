@@ -19,7 +19,7 @@
   <img align="center" alt="thai-typescript" height="30" width="40"src="https://github.com/user-attachments/assets/8ff8ec75-33a3-4f7c-99ab-d7e2c67e22bc">
  <img align="center" alt="thai-ionic" height="30" width="40"src="https://github.com/user-attachments/assets/517bbf83-c450-429a-88c9-d2e548a35bf6">
   <img align="center" alt="thai-node" height="30" width="40"src="https://github.com/user-attachments/assets/9a3c1dd8-2f98-4b0c-beff-7f443395176a">
-  <img align="center" alt="thai-ionic" height="30" width="40"src="https://github.com/user-attachments/assets/517bbf83-c450-429a-88c9-d2e548a35bf6">
+  <img align="center" alt="thai-npm" height="30" width="40"src="https://github.com/user-attachments/assets/8e09324d-8883-4640-aa0c-703c67c07a5f">
   <img align="center" alt="thai-ionic" height="30" width="40"src="https://github.com/user-attachments/assets/517bbf83-c450-429a-88c9-d2e548a35bf6">
   <img align="center" alt="thai-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="thai-php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
