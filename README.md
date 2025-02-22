@@ -4,7 +4,16 @@
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark&roadmaps=design-system%2Cux-design%2Cdevops%2Cfull-stack)](https://roadmap.sh/u/rossinoli)
 <img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif">
+### :woman_technologist: &nbsp;About Me :
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+
+---
 ### 🛠 &nbsp;Languages and Tools :
 <div style="display: inline_block"><br>
    <img align="center" alt="thai-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
