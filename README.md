@@ -1,6 +1,6 @@
 ### Olá! Sou Thaina Rossinoli, Desenvolvedora Full Stack e Designe!
 
-<h6><em>Apaixonada por tecnologia, desenvolvimento web e design UX/UI. Tenho experiência com diversas tecnologias e busco sempre aprender mais.</em></h6>
+<h5><em>Apaixonada por tecnologia, desenvolvimento web e design UX/UI. Tenho experiência com diversas tecnologias e busco sempre aprender mais.</em></h5>
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark&roadmaps=design-system%2Cux-design%2Cdevops%2Cfull-stack)](https://roadmap.sh/u/rossinoli)
 <img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif">
