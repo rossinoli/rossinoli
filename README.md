@@ -3,6 +3,7 @@
  <h6>Sou um Designer que se interessou pela aréa de programação,Experiencia Fullstack developer 2 anos.</h6>
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark&roadmaps=design-system%2Cux-design%2Cdevops%2Cfull-stack)](https://roadmap.sh/u/rossinoli)
+<img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif">
 
 ##### Conhecimentos:
 <div style="display: inline_block"><br>
@@ -23,7 +24,7 @@
   <img align="center" alt="thai-mysql" height="30" width="40"src="https://github.com/user-attachments/assets/46438591-0355-4ffd-90e6-0bed5d134eae">
   <img align="center" alt="thai-php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="thai-git" height="30" width="40"src="https://github.com/user-attachments/assets/f43536ca-9201-4593-9fae-f4797eae994a">
-  <img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif">
+  
 </div>
           
   ##
