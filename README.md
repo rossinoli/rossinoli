@@ -20,7 +20,7 @@
  <img align="center" alt="thai-ionic" height="30" width="40"src="https://github.com/user-attachments/assets/517bbf83-c450-429a-88c9-d2e548a35bf6">
   <img align="center" alt="thai-node" height="30" width="40"src="https://github.com/user-attachments/assets/9a3c1dd8-2f98-4b0c-beff-7f443395176a">
   <img align="center" alt="thai-npm" height="30" width="40"src="https://github.com/user-attachments/assets/8e09324d-8883-4640-aa0c-703c67c07a5f">
-  <img align="center" alt="thai-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="thai-mysql" height="30" width="40"src="https://github.com/user-attachments/assets/46438591-0355-4ffd-90e6-0bed5d134eae">
   <img align="center" alt="thai-php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="thai-git" height="30" width="40"src="https://github.com/user-attachments/assets/f43536ca-9201-4593-9fae-f4797eae994a">
   <img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif">
