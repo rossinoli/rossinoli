@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="center"> ⏳ <em> Sobre mim </em></h2>
+<h2 align="center"> <em> Sobre mim </em></h2>
 
 <img src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif" width="180" align="right" />
 
@@ -32,7 +32,7 @@
 <br clear="right">
 <br/>
 
-<h2 align="center"> ⚙️ <em> Tecnologias </em> </h2>
+<h2 align="center"> <em> Tecnologias </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
