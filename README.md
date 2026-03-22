@@ -1,38 +1,83 @@
-### Olá! Sou Thaina Rossinoli, Desenvolvedora Full Stack e Designe!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=200&section=header&text=Bem-vindo%20ao%20Github%20da%20Thaina&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<h5><em>Apaixonada por tecnologia, desenvolvimento web e design UX/UI.</em></h5>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6622cb6a3a0402c7d0fe3623?variant=dark&roadmaps=design-system%2Cux-design%2Cdevops%2Cfull-stack)](https://roadmap.sh/u/rossinoli)
-<img align="right" alt="thai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif">
-
-### 🛠 Conhecimentos :
-<p style="display: inline_block"><br>
-   <img align="center" alt="thai-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="thai-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="thai-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="thai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="thai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="thai-bootstrap" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="thai-materializecss" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg">
-  <img align="center" alt="thai-sass" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="thai-tailwindcss" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="thai-angular" height="30" width="40"src="https://github.com/user-attachments/assets/46ac096a-9db3-4a2d-a202-73dbc6bbc1f6">
-  <img align="center" alt="thai-typescript" height="30" width="40"src="https://github.com/user-attachments/assets/8ff8ec75-33a3-4f7c-99ab-d7e2c67e22bc">
- <img align="center" alt="thai-ionic" height="30" width="40"src="https://github.com/user-attachments/assets/517bbf83-c450-429a-88c9-d2e548a35bf6">
-  <img align="center" alt="thai-node" height="30" width="40"src="https://github.com/user-attachments/assets/9a3c1dd8-2f98-4b0c-beff-7f443395176a">
-  <img align="center" alt="thai-npm" height="30" width="40"src="https://github.com/user-attachments/assets/8e09324d-8883-4640-aa0c-703c67c07a5f">
-  <img align="center" alt="thai-mysql" height="30" width="40"src="https://github.com/user-attachments/assets/46438591-0355-4ffd-90e6-0bed5d134eae">
-  <img align="center" alt="thai-php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="thai-git" height="30" width="40"src="https://github.com/user-attachments/assets/f43536ca-9201-4593-9fae-f4797eae994a">
- 
-</p>
-
-          
----
-  
- <div> 
-  <a href="https://instagram.com/thai_rossinoli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thaina-rossinoli-b23b14260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/thaina-rossinoli-b23b14260/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/thai_rossinoli/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
 </div>
 
+<br>
 
+<h2 align="center"> ⏳ <em> Sobre mim </em></h2>
+
+<img src="https://user-images.githubusercontent.com/103609562/216775574-7091a5df-9d55-4deb-b491-1ac84b7d6aec.gif" width="180" align="right" />
+
+<p align="left">
+  Olá! <b>Eu sou a Thaina Rossinoli</b>, desenvolvedora com quase 5 anos de trajetória. Atualmente, estou focando minha carreira em <b>Desenvolvimento Full Stack</b> e <b>Garantia de Qualidade (QA)</b>, construindo aplicações robustas e garantindo a excelência do software.
+</p>
+
+<p align="center">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em><b> Formanda em Sistemas para Internet na FATEC Lins </b></em> <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em><b> Desenvolvimento Full Stack com PHP e Laravel </b></em> <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em><b> Foco em Mobile com Java Nativo </b></em> <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em><b> Estudante de QA </b></em> <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em><b> Games </b></em>
+</p>
+
+<br clear="right">
+<br/>
+
+<h2 align="center"> ⚙️ <em> Tecnologias </em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/QA_Testing-000000?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<h2>Statistics</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h4>Most Used Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossinoli&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" height="165px" />
+    </td>
+    <td width="50%" align="center">
+      <h4>GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=rossinoli&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" height="165px" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>Contribution Streak</h3>
+
+<img src="https://streak-stats.demolab.com?user=rossinoli&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
+
+<br/><br/>
+
+<h3>Contribution Graph</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rossinoli&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Thaina%20Leticia%20Rossinoli's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+
+</div>
