@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<h2>Statistics</h2>
+<h2> <em> Estatísticas </em> </h2>
 
 <table>
   <tr>
