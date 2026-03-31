@@ -50,34 +50,3 @@
 
 <br/>
 <br/>
-
-<div align="center">
-
-<h2> <em> Estatísticas </em> </h2>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h4>Most Used Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossinoli&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" height="165px" />
-    </td>
-    <td width="50%" align="center">
-      <h4>GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=rossinoli&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" height="165px" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3>Contribution Streak</h3>
-
-<img src="https://streak-stats.demolab.com?user=rossinoli&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
-
-<br/><br/>
-
-<h3>Contribution Graph</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rossinoli&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Thaina%20Leticia%20Rossinoli's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
-
-</div>
